@@ -1,0 +1,12 @@
+let numbers=[];
+numbers=[2,1,5,3,7,8,7,3,2];
+console.log(numbers[0]+numbers[1]);
+console.log(numbers.sort());
+numbers.push(6);
+console.log(numbers);
+console.log(numbers.sort());
+numbers.pop();
+console.log(numbers);
+let mix=[];
+mix=['one',1,'two',2,'three',3];
+console.log(mix);

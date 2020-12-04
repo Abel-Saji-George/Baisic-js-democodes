@@ -1,0 +1,12 @@
+let name='percy jackson';
+console.log(name);
+let age='20';
+console.log(age);
+let num=5;
+console.log(num);
+let option=true;
+console.log(option);
+let height;
+console.log(height);
+let eyecolor=null;
+console.log(eyecolor);
